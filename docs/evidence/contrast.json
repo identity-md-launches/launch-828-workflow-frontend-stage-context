@@ -1,0 +1,301 @@
+{
+  "method": "WCAG 2 sRGB luminance; computed colors over actual opaque ancestor backgrounds",
+  "text": [
+    {
+      "selector": "body",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 10.58,
+      "fontSize": "16px",
+      "weight": "400"
+    },
+    {
+      "selector": ".hero-description",
+      "foreground": [
+        100,
+        104,
+        94
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 5.05,
+      "fontSize": "18px",
+      "weight": "400"
+    },
+    {
+      "selector": ".hero-footnote",
+      "foreground": [
+        100,
+        104,
+        94
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 5.05,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".button.primary",
+      "foreground": [
+        250,
+        248,
+        243
+      ],
+      "background": [
+        39,
+        59,
+        50
+      ],
+      "ratio": 11.26,
+      "fontSize": "14px",
+      "weight": "600"
+    },
+    {
+      "selector": ".trade-card > .small",
+      "foreground": [
+        100,
+        104,
+        94
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 5.37,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".amount-box label",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 11.26,
+      "fontSize": "14px",
+      "weight": "400"
+    },
+    {
+      "selector": ".amount-box p",
+      "foreground": [
+        100,
+        104,
+        94
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 5.37,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".slippage-row label",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 11.26,
+      "fontSize": "14px",
+      "weight": "400"
+    },
+    {
+      "selector": ".launch-status .small",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 10.58,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".error",
+      "foreground": [
+        148,
+        62,
+        47
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 6.22,
+      "fontSize": "14px",
+      "weight": "400"
+    },
+    {
+      "selector": ".copy-button",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 10.58,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".pill",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 11.26,
+      "fontSize": "12px",
+      "weight": "400"
+    },
+    {
+      "selector": ".motion-button",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 11.26,
+      "fontSize": "13px",
+      "weight": "400"
+    },
+    {
+      "selector": ".token-tools > summary",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        233,
+        229,
+        218
+      ],
+      "ratio": 9.49,
+      "fontSize": "16px",
+      "weight": "600"
+    }
+  ],
+  "borders": [
+    {
+      "selector": ".amount-box",
+      "foreground": [
+        130,
+        136,
+        121
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 3.44
+    },
+    {
+      "selector": "#slippage",
+      "foreground": [
+        130,
+        136,
+        121
+      ],
+      "background": [
+        250,
+        248,
+        243
+      ],
+      "ratio": 3.44
+    },
+    {
+      "selector": ".button.quiet",
+      "foreground": [
+        130,
+        136,
+        121
+      ],
+      "background": [
+        244,
+        241,
+        233
+      ],
+      "ratio": 3.24
+    },
+    {
+      "selector": ".segmented button",
+      "foreground": [
+        39,
+        59,
+        50
+      ],
+      "background": [
+        233,
+        229,
+        218
+      ],
+      "ratio": 9.49
+    }
+  ],
+  "focus": [
+    {
+      "selector": "body",
+      "ratio": 7.27
+    },
+    {
+      "selector": ".trade-card",
+      "ratio": 7.73
+    },
+    {
+      "selector": ".token-tools",
+      "ratio": 6.52
+    }
+  ]
+}

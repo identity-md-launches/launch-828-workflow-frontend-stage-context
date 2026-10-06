@@ -1,0 +1,69 @@
+{
+  "checkedAt": "2026-10-06T18:07:08.181Z",
+  "mode": "Read-only public RPC; no wallet or broadcast",
+  "chainId": 1,
+  "block": "26135019",
+  "contracts": [
+    {
+      "name": "LaunchToken",
+      "address": "0x05931b5d7c0f5fbb2315a87ed48e3167483b1b67",
+      "codeBytes": 1784
+    },
+    {
+      "name": "poolManager",
+      "address": "0x000000000004444c5dc75cb358380d2e3de08a90",
+      "codeBytes": 24009
+    },
+    {
+      "name": "universalRouter",
+      "address": "0x66a9893cc07d91d95644aedd05d03f95e1dba8af",
+      "codeBytes": 19499
+    },
+    {
+      "name": "quoter",
+      "address": "0x52f0e24d1c21c8a0cb1e5a5dd6198556bd9e1203",
+      "codeBytes": 5820
+    },
+    {
+      "name": "stateView",
+      "address": "0x7ffe42c4a5deea5b0fec41c94c136cf115597227",
+      "codeBytes": 3531
+    },
+    {
+      "name": "positionManager",
+      "address": "0xbd216513d74c8cf14cf4747e6aaa6420ff64ee9e",
+      "codeBytes": 23877
+    },
+    {
+      "name": "permit2",
+      "address": "0x000000000022d473030f116ddee9f6b43ac78ba3",
+      "codeBytes": 9152
+    },
+    {
+      "name": "initializationGuard",
+      "address": "0x784ff9a3ac5d88a30bfff6f7f2a270161fbe6000",
+      "codeBytes": 488
+    }
+  ],
+  "token": {
+    "name": "Pachu",
+    "symbol": "PACHU",
+    "decimals": 18,
+    "totalSupply": "1000000000000000000000000000"
+  },
+  "pool": {
+    "id": "0xc620ea53e6e65f09f188a116decc44703e84c1af2738e4b30a42d0d885216aec",
+    "sqrtPriceX96": "783329938720194277262485794002751",
+    "tick": 183988,
+    "protocolFee": 0,
+    "lpFee": 12500,
+    "activeLiquidity": "88070502259298387983934"
+  },
+  "error": null,
+  "quote": {
+    "mode": "eth_call simulation only",
+    "inputETH": "0.001",
+    "outputPachuBaseUnits": "96520429318573668843246",
+    "gasEstimate": "37543"
+  }
+}

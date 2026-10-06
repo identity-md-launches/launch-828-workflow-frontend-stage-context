@@ -1,0 +1,10 @@
+# Explicit ignore path budget: web/.gitignore only; applies at every web nesting level.
+node_modules/
+.cache/
+.npm/
+.vite/
+coverage/
+test-results/
+playwright-report/
+*.tsbuildinfo
+*.tgz

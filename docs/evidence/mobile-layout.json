@@ -1,0 +1,25 @@
+{
+  "width": 320,
+  "scrollWidth": 320,
+  "overflowing": [],
+  "inputs": [
+    {
+      "id": "trade-amount",
+      "size": "33.6px"
+    },
+    {
+      "id": "slippage",
+      "size": "16px"
+    },
+    {
+      "id": "tool-target",
+      "size": "16px"
+    },
+    {
+      "id": "tool-amount",
+      "size": "16px"
+    }
+  ],
+  "videoPaused": true,
+  "autoplay": false
+}

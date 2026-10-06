@@ -1,0 +1,62 @@
+{
+  "checkedAt": "2026-10-06T18:14:59.589Z",
+  "mode": "Production export at /preview/, mocked RPC and injected wallet; no real funds or broadcasts",
+  "tests": [
+    {
+      "name": "Disconnected controls, missing wallet recovery, keyboard disclosure",
+      "status": "passed"
+    },
+    {
+      "name": "Wrong chain fails closed; missing-chain addition uses exact handoff",
+      "status": "passed"
+    },
+    {
+      "name": "Connection rejection recovers, wallet account/chain changes invalidate readiness",
+      "status": "passed"
+    },
+    {
+      "name": "Native buy: live balance, quote as eth_call, exact key/minimum/value; no approvals",
+      "status": "passed"
+    },
+    {
+      "name": "Sell: exact ERC-20 approval, receipt lock, Permit2 router approval, then zero-value swap",
+      "status": "passed"
+    },
+    {
+      "name": "Expired Permit2 allowance requires router approval despite sufficient amount",
+      "status": "passed"
+    },
+    {
+      "name": "Input precision, low balance, slippage and quote errors prevent signing",
+      "status": "passed"
+    },
+    {
+      "name": "Swap simulation revert and wallet signing rejection recover without a broadcast",
+      "status": "passed"
+    },
+    {
+      "name": "Transfer, approve/revoke and transferFrom use the attested ABI with reviewed state",
+      "status": "passed"
+    },
+    {
+      "name": "Live verification fails closed after missing code or RPC chain mismatch",
+      "status": "passed"
+    },
+    {
+      "name": "Modified ABI causes configuration error and no transaction controls",
+      "status": "passed"
+    },
+    {
+      "name": "Keyboard-only connection and native swap, with a visible focus indicator",
+      "status": "passed"
+    },
+    {
+      "name": "Public RPC fallback recovers; total RPC failure disables trading with recovery",
+      "status": "passed"
+    },
+    {
+      "name": "Inputs changing during a quote discard the older result",
+      "status": "passed"
+    }
+  ]
+}
